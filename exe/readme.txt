@@ -1,0 +1,1 @@
+cat.bmp, earth.bmp, mirror.bmp, 分别是球体，正方体，地板的纹理，colorBuffer.bmp作为后缓冲。执行文件是 dxSimulation.exe，双击后请不要点其他程序，也不要点鼠标和键盘，大概要等十秒才能看到运行结果，因为这只是软件模拟，运行得太慢，我没有重载WM_PAINT消息。
